@@ -17,9 +17,6 @@ function bingo()
 	    echo $n[$i] .",";
 	}
 }
-
-
-
 ?>
 <html>
 <head>
